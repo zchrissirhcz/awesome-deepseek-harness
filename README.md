@@ -995,6 +995,8 @@ Management panel: Settings → Plugins.
 
 - [lcy0121/dsh-plugin-compat-check](https://github.com/lcy0121/dsh-plugin-compat-check) - Pre-install compatibility checker for DSH plugins: installs a plugin into a throwaway profile, boots the host, dumps its real API surface including prototype-chain methods, and diffs that against the services and methods the plugin actually calls.
 
+- [dsh-download-file](https://github.com/zchrissirhcz/dsh-download-file) - Save any URL (intranet GitLab raw, public GitHub, etc.) to a local file — text or binary — with a text preview and skip-on-exists.
+
 ## Related
 
 - [dsh-external/issues](https://github.com/dsh-external/issues) - Issue aggregation hub.
